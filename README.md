@@ -4,8 +4,6 @@ A Python CLI app to track expenses, manage monthly budgets, and generate visual 
 
 A command-line Python project to track monthly expenses, manage budgets, categorize spending, and generate visual summary reports.
 
-> 🧑‍💻 Built as a resume-ready project for Python development & internship opportunities.
-
 ---
 
 ## 🔧 Features
