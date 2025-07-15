@@ -23,6 +23,7 @@ A command-line Python project to track monthly expenses, manage budgets, categor
 ## 📁 Project Structure
 
 expense-tracker-python/
+
 │
 ├── main.py # Main CLI application
 
