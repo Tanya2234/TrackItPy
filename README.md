@@ -25,10 +25,15 @@ A command-line Python project to track monthly expenses, manage budgets, categor
 expense-tracker-python/
 │
 ├── main.py # Main CLI application
+
 ├── tracker.py # Handles expense logic and budget management
+
 ├── visualizer.py # Generates bar and pie charts using matplotlib
+
 ├── expenses.csv # CSV file where all your expenses are stored
+
 ├── requirements.txt # Python dependencies
+
 └── README.md # This documentation
 
 
@@ -46,14 +51,20 @@ expense-tracker-python/
 This project was built to:
 
 Practice real-world Python skills
+
 Understand budget management logic
+
 Learn file handling, OOP, and charting
+
 Create a resume-ready, beginner-to-intermediate CLI project
 
 
 🔄 Future Ideas
 
 GUI version using Tkinter
+
 Web version using Flask
+
 Export PDF reports
+
 Add date filters or user authentication
